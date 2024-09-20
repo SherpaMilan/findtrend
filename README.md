@@ -11,7 +11,7 @@ Sherpamilan
 
 ## Live
 
-
+https://findtrend-k7uq.vercel.app/
 
 ## Features
 
