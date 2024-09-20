@@ -2,7 +2,8 @@
 
 Findtrend-Webflow is a clone of the Findtrend website, created using only HTML and CSS. This project serves as a demonstration of basic web design techniques and responsive layout using pure HTML and CSS.
 
-**Use Safari for more accurate CSS alignment.**
+**Use Safari for more accurate CSS alignment.
+Checkout iphone12pro-390px for some new ideas**
 
 ## Author
 
